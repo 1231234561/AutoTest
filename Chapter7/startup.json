@@ -2,11 +2,11 @@
   {
     "description": "这是我们的第一个mock例子",
     "request": {
-      "url": "/demo"
+       "uri":"/demo"
     },
-    "respose": {
-      "text": "第一个json文件"
+    "response": {
+      "text": "第一个json文件",
+      "headers":{"Content-Type":"text/html;charset=gbk"}
     }
   }
-
 ]
